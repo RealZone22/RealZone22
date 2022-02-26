@@ -1,0 +1,3 @@
+- 👋 Hey, I’m RealZone22
+- And i don't have Hobbys :D
+- I Chill 24/7 in Minecraft
