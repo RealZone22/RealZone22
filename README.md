@@ -1,2 +1,2 @@
 - 👋 Hey, I'm RealZone22
-- :de: I'm from Germany :D
+-  I'm from Germany :D
