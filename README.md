@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 * 🌍  I'm based in Germany
-* 🚀  I'm currently working on [RC-Cloud](https://github.com/RC-Cloud)
-* 🧠  I'm learning Kotlin & TypeScript
+* 🚀  I'm currently working on CyanFox-Browser
+* 🧠  I'm learning JavaScript / HTML / CSS
 * ⚡  I love to make Minecraft Plugins
 
 <a href="https://www.github.com/RealZone22" target="_blank" rel="noreferrer"><img
