@@ -3,7 +3,7 @@ Hi👋 My name is RealZone22
 
 * 🌍  I'm based in Germany
 * 🚀  I'm currently working on ZoneCraft
-* 🧠  I'm learning how to center a div
+* 🧠  I'm learning how to center a div :P
 * ⚡  I love to make Minecraft Plugins
 
 <a href="https://www.github.com/RealZone22" target="_blank" rel="noreferrer"><img
