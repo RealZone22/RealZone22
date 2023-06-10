@@ -2,9 +2,9 @@ Hi👋 My name is RealZone22
 ==================================================================================================================================
 
 * 🌍  I'm based in Germany
-* 🚀  I'm currently working on CyanFox-Panel & ZoneCraft
-* 🧠  I'm learning how to center a div :P
-* ⚡  I love to make Laravel Apps
+* 🚀  I'm currently working on CyanFox-Panel
+* 🧠  I'm learning how to create Laravel Apps
+* ⚡  I love to make Laravel Apps <3
 
 <a href="https://www.github.com/RealZone22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RealZone22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
