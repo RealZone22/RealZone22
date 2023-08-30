@@ -16,7 +16,7 @@
 <a href="https://twitter.com/realzone22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realzone22" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18041303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18041303" height="30" width="40" /></a>
 <a href="https://instagram.com/realzone22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realzone22" height="30" width="40" /></a>
-<a href="/https://git.realzone22.de/lenny.rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://git.realzone22.de/lenny.rss" height="30" width="40" /></a>
+<a href="https://git.realzone22.de/lenny.rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://git.realzone22.de/lenny.rss" height="30" width="40" /></a>
 </p>
 
 <br>
