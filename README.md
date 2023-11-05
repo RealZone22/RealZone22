@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 🦊 All of my CyanFox projects are available at [GitLab](https://gitlab.com/cyanfox-projects)
+- 🦊 All of my CyanFox projects are available on [GitLab](https://gitlab.com/cyanfox-projects)
 
 - 📫 How to reach me **lenny@petschl.org**
 
