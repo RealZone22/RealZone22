@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm RealZone22 | Lenny P.</h1>
 
-- 🔭 I’m currently working on [CyanFox](https://gitlab.com/cyanfox-projects)
+- 🔭 I’m currently working on [CyanFox](https://github.com/cyanfox-projects)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go & Rust**
 
-- 🦊 All of my CyanFox projects are available on [GitLab](https://gitlab.com/cyanfox-projects)
+- 🦊 [Here](https://github.com/cyanfox-projects) are all of my CyanFox projects 
 
 - 📫 How to reach me **lenny@petschl.org**
 
-- ⚡ Fun fact **It works on my machine :P**
+- ⚡ Fun fact **I love programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
