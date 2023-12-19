@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lenny</h1>
 <h3 align="center">A German student developing new things</h3>
 
-- 🔭 I’m currently working on [CyanFox](https://github.com/CyanFox)
+- 🔭 I’m currently working on [CyanFox](https://github.com/CyanFox-Projects)
 
 - 🌱 I’m currently learning **Go & Rust**
 
-- 👨‍💻 All of my CyanFox-Projects are available at [https://github.com/CyanFox](https://github.com/CyanFox)
+- 👨‍💻 All of my CyanFox-Projects are available at [https://github.com/CyanFox-Projects](https://github.com/CyanFox-Projects)
 
 - 📫 How to reach me **lenny@petschl.org**
 
