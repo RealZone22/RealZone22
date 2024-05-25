@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [CyanFox](https://github.com/CyanFox-Projects) <br>
-🌱 I’m currently learning Go & Rust<br>
+🌱 I’m currently learning Go<br>
 👨‍💻 All of my CyanFox-Projects are available at https://github.com/CyanFox-Projects <br>
 📫 How to reach me lenny@petschl.org
 
