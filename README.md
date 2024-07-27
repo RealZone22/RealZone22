@@ -3,7 +3,7 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=css,html,js,tailwind,php,laravel,go,md,discord,docker,git,github,phpstorm,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,tailwind,php,laravel,go,md,docker,git,phpstorm,linux,mysql" />
 </p>
 
 <h2 align="center">Stats</h2>
